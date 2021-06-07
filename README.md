@@ -1,0 +1,41 @@
+# Mess Extra Token Management System
+### Hosted Link : http://ec2-18-190-152-182.us-east-2.compute.amazonaws.com/
+# devathon
+
+# Team No 13
+
+Raghu Nagam - 851833 / 187139
+
+Krishna Sai - 951845 / 187112
+
+# Features
+
+# Authentication
+
+ login Form(same for user and vendor directing to their respective dashboards)
+
+ Sign up Form(for User)
+ 
+ Forgot Password
+ 
+# Student Module
+ 
+Dashboard(Served Transactions ,Total extra dues)
+
+Request Order
+
+Pending Transactions
+
+# Vendor Module
+
+Dashboard (Served Transactions)
+
+Review Order 
+
+Accept Order by verifing OTP
+
+# Security
+
+OTP through email
+
+Order Confirmation through email
